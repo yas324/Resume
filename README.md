@@ -15,11 +15,11 @@ Available for immediate joining.
 
 [📄 Download Resume (PDF)](./Syed_Yaseen_Resume.pdf)
 
-## 🔗 Profiles
+## 🔗 Portfolio
+🌐 [syedyaseen.carrd.co](https://syedyaseen.carrd.co)
 
-- 🐙 [GitHub](https://github.com/yas324)
-- 💼 [LinkedIn](https://linkedin.com/in/syed-yaseen-immediate-joiner-4a8258236)
-- 💼 [Naukri](https://naukri.com/mnjuser/profile?id=&altresid)
+
+## 🔗 Connect With Me
 - ✉️ [Email Me](mailto:syedengineer324@gmail.com)
   
 ---
