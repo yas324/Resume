@@ -20,7 +20,6 @@ Available for immediate joining.
 - 🐙 [GitHub](https://github.com/yas324)
 - 💼 [LinkedIn](https://linkedin.com/in/syed-yaseen-immediate-joiner-4a8258236)
 - 💼 [Naukri](https://naukri.com/mnjuser/profile?id=&altresid)
-- 📊 [Tableau Public](https://public.tableau.com/app/profile/YOURNAME)
 - ✉️ [Email Me](mailto:syedengineer324@gmail.com)
   
 ---
