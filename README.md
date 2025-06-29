@@ -16,12 +16,19 @@ Available for immediate joining.
 [📄 Download Resume (PDF)](./Syed_Yaseen_Resume.pdf)
 
 ## 🔗 Portfolio
-🌐 [syedyaseen.carrd.co](https://syedyaseen.carrd.co)
+
+[![🌐 Portfolio - syedyaseen324.carrd.co](https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=internet-explorer)](https://syedyaseen324.carrd.co/)
 
 
 ## 🔗 Connect With Me
 - ✉️ [Email Me](mailto:syedengineer324@gmail.com)
   
 ---
+
+## 👤 Author
+
+**Syed Yaseen**  
+*Aspiring Data Analyst | Power BI | Excel | SQL | Tableau*
+
 
 _Thanks for visiting! Feel free to connect or reach out._
