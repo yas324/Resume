@@ -17,7 +17,9 @@ Available for immediate joining.
 
 ## 🔗 Portfolio
 
-[![🌐 Portfolio - syedyaseen324.carrd.co](https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=internet-explorer)](https://syedyaseen324.carrd.co/)
+<a href="https://syedyaseen324.carrd.co/">
+  <img src="https://github.com/yas324/AboutMe_SyedYaseen/blob/main/Badge%201.png" alt="Badge" width="150">
+</a>
 
 
 ## 🔗 Connect With Me
@@ -25,7 +27,7 @@ Available for immediate joining.
   
 ---
 
-## 👤 Author
+## <img src="https://img.icons8.com/ios-glyphs/30/000000/guest-male.png" alt="Author Icon"/> Author
 
 **Syed Yaseen**  
 *Aspiring Data Analyst | Power BI | Excel | SQL | Tableau*
