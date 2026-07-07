@@ -13,7 +13,7 @@ Available for immediate joining.
 
 ## 📎 Resume File
 
-[📄 Download Resume (PDF)](./Syed_Yaseen_DA_Resume_Gulf.pdf)
+[📄 Download Resume (PDF)](./Syed_Yaseen_Data_Analyst_Resume.pdf)
 
 ## 🔗 Portfolio
 
